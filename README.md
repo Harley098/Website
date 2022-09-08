@@ -4,4 +4,6 @@ work in progress
 
 
 ----fixing minor bugs on website
+
+----adding cool elements
 ]
